@@ -38,4 +38,7 @@ Run project with
   Anaconda
   Jupyter notebook
   Visual Studio Code
+Output
+![output](https://user-images.githubusercontent.com/71960440/137284702-e6fa5fb7-7080-4b96-b4d3-09a2daa4d7a8.jpeg)
+
 
