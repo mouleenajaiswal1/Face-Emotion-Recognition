@@ -1,4 +1,4 @@
-# Capstone-project-5
+# Face-Emotion Recognition
 ## Live Class Monitoring System(Face Emotion Recognition using Deep Learning)
 ### Author
 •	Mouleena Jaiswal and Saurabh daund
